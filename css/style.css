@@ -138,7 +138,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/mob-people-bg@2x-min.jpg);
+        url(../images/mob-people-bg@2x.jpg);
     }
   }
   .title {
@@ -887,7 +887,7 @@
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url(../images/tab-Dark-bg@2x.jpg);
+          url(../images/tab-Dark-bg@2x.jpg)
       }
     }
     .title {
@@ -1157,7 +1157,7 @@
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url(../images/people-office1@2x-min.jpg);
+          url(../images/people-office1@2x.jpg);
       }
     }
     .title {
